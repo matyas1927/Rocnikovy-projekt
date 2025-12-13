@@ -29,3 +29,35 @@ Projekt se v současné době nachází ve fázi rozpracování. Bylo stanoveno 
 V rámci praktické části projektu již bylo zahájeno základní sbírání dat z nositelných zařízení. Tato činnost zatím neprobíhá systematicky a slouží především k seznámení se s funkcemi zařízení, dostupnými daty a možnostmi jejich exportu a dalšího zpracování. Hlavní důraz je v této fázi kladen především na teoretickou přípravu projektu.
 
 Praktická část projektu bude dále rozvíjena v následujících etapách, kdy dojde k plánovanému a opakovanému měření za stejných podmínek a následnému vyhodnocení získaných dat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Zdroje a citace
+Níže jsou uvedeny zdroje informací, které byly použity při zpracování ročníkového projektu.
+
+### Použité zdroje
