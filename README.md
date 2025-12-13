@@ -60,4 +60,10 @@ Praktická část projektu bude dále rozvíjena v následujících etapách, kd
 ## Zdroje a citace
 Níže jsou uvedeny zdroje informací, které byly použity při zpracování ročníkového projektu.
 
+
+
 ### Použité zdroje
+
+
+
+### Doporučená literatura a zdroje
