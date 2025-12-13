@@ -20,3 +20,12 @@ Tato kapitola obsahuje myšlenkovou mapu ročníkového projektu. Myšlenková m
 Středem myšlenkové mapy je téma porovnání nositelných senzorových systémů. Jednotlivé větve znázorňují hlavní oblasti projektu, jako jsou použitá zařízení, senzory a hardware, měření a sběr dat, zpracování dat a vyhodnocení výsledků.
 
 Myšlenková mapa byla vytvořena v úvodní fázi projektu a bude sloužit jako podklad pro další rozpracování jednotlivých kapitol.
+
+## Současný stav projektu
+V této kapitole je popsán aktuální stav ročníkového projektu.
+
+Projekt se v současné době nachází ve fázi rozpracování. Bylo stanoveno téma projektu, jeho cíl a základní struktura dokumentace. Dále byla vytvořena myšlenková mapa, která slouží jako přehled plánovaných částí projektu.
+
+V rámci praktické části projektu již bylo zahájeno základní sbírání dat z nositelných zařízení. Tato činnost zatím neprobíhá systematicky a slouží především k seznámení se s funkcemi zařízení, dostupnými daty a možnostmi jejich exportu a dalšího zpracování. Hlavní důraz je v této fázi kladen především na teoretickou přípravu projektu.
+
+Praktická část projektu bude dále rozvíjena v následujících etapách, kdy dojde k plánovanému a opakovanému měření za stejných podmínek a následnému vyhodnocení získaných dat.
