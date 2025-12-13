@@ -67,3 +67,4 @@ Níže jsou uvedeny zdroje informací, které byly použity při zpracování ro
 
 
 ### Doporučená literatura a zdroje
+GPS vesta na fotbal – jak funguje a vyplatí se? Online. 2022. Dostupné z: https://topkopacky.cz/gps-vesta-fotbal/. [cit. 2025-12-13].
