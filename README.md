@@ -1,1 +1,1 @@
-# Porovnání nositelných senzorových systémů (StatsSport vs. Apple Watch)
+# Porovnání nositelných senzorových systémů ve sportu
