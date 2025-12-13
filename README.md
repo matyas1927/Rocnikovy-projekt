@@ -71,4 +71,5 @@ Apple. Online. Apple (Česká republika). 1994. Dostupné z: https://www.apple.c
 
 ### Doporučená literatura a zdroje
 GPS vesta na fotbal – jak funguje a vyplatí se? Online. 2022. Dostupné z: https://topkopacky.cz/gps-vesta-fotbal/. [cit. 2025-12-13].
+--
 31 Years of Apple.com Website Design History - 39 Images - Version Museum. Online. Version Museum. Dostupné z: https://www.versionmuseum.com/history-of/apple-website. [cit. 2025-12-13].
