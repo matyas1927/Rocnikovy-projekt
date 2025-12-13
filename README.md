@@ -64,7 +64,7 @@ Níže jsou uvedeny zdroje informací, které byly použity při zpracování ro
 
 ### Použité zdroje
 STATSports. Online. STATSports | Performance Powered By Data | Athlete Monitoring. 2008. Dostupné z: https://statsports.com/. [cit. 2025-12-13].
-
+Apple. Online. Apple (Česká republika). 1994. Dostupné z: https://www.apple.com/cz/. [cit. 2025-12-13].
 
 
 
