@@ -13,7 +13,7 @@ Projekt je pojat z technického hlediska a soustředí se především na proble
 Tato kapitola obsahuje myšlenkovou mapu ročníkového projektu. Myšlenková mapa slouží k přehlednému rozdělení projektu na jednotlivé oblasti a pomáhá při jeho postupném zpracování.
 
 ### Myšlenková mapa
-![Myšlenková mapa projektu](../images/Porovnání nositelných senzorových systémů.png)
+![Myšlenková mapa projektu]()
 
 ### Popis myšlenkové mapy
 Středem myšlenkové mapy je téma porovnání nositelných senzorových systémů. Jednotlivé větve znázorňují hlavní oblasti projektu, jako jsou použitá zařízení, senzory a hardware, měření a sběr dat, zpracování dat a vyhodnocení výsledků.
