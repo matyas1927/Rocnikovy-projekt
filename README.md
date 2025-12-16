@@ -16,7 +16,7 @@ Tato kapitola obsahuje myšlenkovou mapu ročníkového projektu. Myšlenková m
 ![Myšlenková mapa](images/myslenkova_mapa.png)
 
 
-### Popis myšlenkové mapy
+## Popis myšlenkové mapy
 Středem myšlenkové mapy je téma porovnání nositelných senzorových systémů. Jednotlivé větve znázorňují hlavní oblasti projektu, jako jsou použitá zařízení, senzory a hardware, měření a sběr dat, zpracování dat a vyhodnocení výsledků.
 
 Myšlenková mapa byla vytvořena v úvodní fázi projektu a bude sloužit jako podklad pro další rozpracování jednotlivých kapitol.
@@ -32,6 +32,11 @@ Praktická část projektu bude dále rozvíjena v následujících etapách, kd
 
 # Použitá zařízení
 V této kapitole jsou popsána zařízení, která jsou použita v rámci ročníkového projektu pro měření a sběr pohybových dat.
+
+## STATSports Tracker
+STATSports Tracker je profesionální sportovní GPS zařízení určené především pro sledování výkonu hráčů v kolektivních sportech, jako je fotbal. Zařízení se běžně nosí v elastické vestě na zádech hráče mezi lopatkami.
+
+Tracker zaznamenává pohyb hráče během tréninku nebo zápasu a ukládá data, která jsou následně analyzována pomocí specializovaného softwaru.
 
 
 
