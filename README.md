@@ -37,7 +37,12 @@ V této kapitole jsou popsána zařízení, která jsou použita v rámci ročn�
 - STATSports Tracker je profesionální sportovní GPS zařízení určené především pro sledování výkonu hráčů v kolektivních sportech, jako je fotbal. Zařízení se běžně nosí v elastické vestě na zádech hráče mezi lopatkami.
 - Tracker zaznamenává pohyb hráče během tréninku nebo zápasu a ukládá data, která jsou následně analyzována pomocí specializovaného softwaru.
 - Tento tracker využívám i já sám, a to pro sledování vlastního výkonu a zlepšování fyzické kondice při tréninku.
-  
+
+
+## Apple Watch
+- Apple Watch jsou chytré hodinky určené pro běžné uživatele. Kromě sledování času umožňují také měření pohybové aktivity, sportovních výkonů a zdravotních údajů jako je třeba měření kvality spánku, srdečního tepu a další.
+- Hodinky jsou vybaveny několika senzory, které umožňují sledovat pohyb, vzdálenost a další parametry při sportovní aktivitě. Díky tomu jsou vhodné i pro základní porovnání s profesionálním sportovním trackerem.
+- Apple Watch využívám především ke sledování kvality spánku, počtu kroků a základních zdravotních údajů, což mi pomáhá lépe hlídat denní režim a celkový zdravotní stav.
 
 
 
