@@ -9,10 +9,10 @@ Hlavním cílem projektu je porovnat přesnost a způsob zpracování dat dvou n
 Projekt se zaměřuje na analýzu vybraných měřených veličin, jako je vzdálenost, rychlost a pohybová aktivita, a na zhodnocení rozdílů v použitých senzorech a metodách zpracování dat.
 Projekt je pojat z technického hlediska a soustředí se především na problematiku mikropočítačových systémů a senzorové techniky.
 
-## Myšlenková mapa projektu
+# Myšlenková mapa projektu
 Tato kapitola obsahuje myšlenkovou mapu ročníkového projektu. Myšlenková mapa slouží k přehlednému rozdělení projektu na jednotlivé oblasti a pomáhá při jeho postupném zpracování.
 
-### Myšlenková mapa
+## Myšlenková mapa
 ![Myšlenková mapa](images/myslenkova_mapa.png)
 
 
@@ -21,7 +21,7 @@ Středem myšlenkové mapy je téma porovnání nositelných senzorových systé
 
 Myšlenková mapa byla vytvořena v úvodní fázi projektu a bude sloužit jako podklad pro další rozpracování jednotlivých kapitol.
 
-## Současný stav projektu
+# Současný stav projektu
 V této kapitole je popsán aktuální stav ročníkového projektu.
 
 Projekt se v současné době nachází ve fázi rozpracování. Bylo stanoveno téma projektu, jeho cíl a základní struktura dokumentace. Dále byla vytvořena myšlenková mapa, která slouží jako přehled plánovaných částí projektu.
