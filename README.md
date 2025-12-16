@@ -85,3 +85,5 @@ Apple. Online. Apple (Česká republika). 1994. Dostupné z: https://www.apple.c
 GPS vesta na fotbal – jak funguje a vyplatí se? Online. 2022. Dostupné z: https://topkopacky.cz/gps-vesta-fotbal/. [cit. 2025-12-13].
 31 Years of Apple.com Website Design History - 39 Images - Version Museum. Online. Version Museum. Dostupné z: https://www.versionmuseum.com/history-of/apple-website. [cit. 2025-12-13].
 Nadvláda Apple Watch končí! iOS 26.3 přinese zásadní změnu, díky které s nimi konkurence srovná krok. Letem Světem Applem. 2025, s. 1.
+Tenčí, odolnější a s delší výdrží. Test hodinek Apple Watch Series 11. IDNES.cz. 2025, roč. 2013, č. 2, s. 1.
+
