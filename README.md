@@ -34,9 +34,9 @@ Praktická část projektu bude dále rozvíjena v následujících etapách, kd
 V této kapitole jsou popsána zařízení, která jsou použita v rámci ročníkového projektu pro měření a sběr pohybových dat.
 
 ## STATSports Tracker
-STATSports Tracker je profesionální sportovní GPS zařízení určené především pro sledování výkonu hráčů v kolektivních sportech, jako je fotbal. Zařízení se běžně nosí v elastické vestě na zádech hráče mezi lopatkami.
+- STATSports Tracker je profesionální sportovní GPS zařízení určené především pro sledování výkonu hráčů v kolektivních sportech, jako je fotbal. Zařízení se běžně nosí v elastické vestě na zádech hráče mezi lopatkami.
 
-Tracker zaznamenává pohyb hráče během tréninku nebo zápasu a ukládá data, která jsou následně analyzována pomocí specializovaného softwaru.
+- Tracker zaznamenává pohyb hráče během tréninku nebo zápasu a ukládá data, která jsou následně analyzována pomocí specializovaného softwaru.
 
 
 
