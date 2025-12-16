@@ -50,6 +50,51 @@ V této kapitole jsou popsána zařízení, která jsou použita v rámci ročn�
 
 Krátké shrnutí, že se jedná o dvě rozdílná zařízení určená pro odlišné skupiny uživatelů, což je důležité pro další porovnání.
 
+# Senzory a hardware
+
+V této kapitole jsou popsány základní senzory a hardwarové prvky, které jsou využívány v zařízeních STATSports Tracker a Apple Watch pro měření pohybových dat.
+
+Obě zařízení obsahují mikropočítačový systém, který zajišťuje sběr dat ze senzorů, jejich zpracování a následné uložení nebo přenos k další analýze.
+
+---
+
+## Akcelerometr
+
+Akcelerometr je senzor, který slouží k měření zrychlení pohybu zařízení v jednotlivých osách. V nositelných zařízeních se nejčastěji používá tříosý akcelerometr, který umožňuje sledovat pohyb ve směrech os X, Y a Z.
+
+Pomocí akcelerometru lze zaznamenat například změny rychlosti, kroky, nárazy nebo intenzitu pohybu. Tento senzor je klíčový pro vyhodnocování pohybové aktivity sportovce.
+
+---
+
+## Gyroskop
+
+Gyroskop je senzor určený k měření úhlové rychlosti a orientace zařízení v prostoru. Umožňuje určit, jakým směrem a jak rychle se zařízení otáčí.
+
+V kombinaci s akcelerometrem poskytuje gyroskop přesnější informace o pohybu, například o změnách směru běhu nebo o poloze těla během sportovní aktivity.
+
+---
+
+## GPS (Globální polohový systém)
+
+GPS senzor slouží k určení polohy zařízení pomocí signálů z družic. Na základě získaných dat je možné vypočítat vzdálenost, rychlost pohybu a trasu, po které se uživatel pohyboval.
+
+GPS je důležitým senzorem zejména u venkovních sportovních aktivit, jako je běh nebo fotbal, kde je nutné sledovat pohyb v prostoru.
+
+---
+
+## Další senzory
+
+Apple Watch obsahují také další senzory, například snímač srdečního tepu, barometr nebo kompas. Tyto senzory umožňují rozšířené sledování sportovní aktivity a zdravotního stavu uživatele.
+
+STATSports Tracker je naopak zaměřen především na přesné měření pohybu a polohy, a proto využívá hlavně pohybové senzory a GPS modul.
+
+---
+
+## Shrnutí kapitoly
+
+V této kapitole byly popsány základní senzory a hardwarové prvky používané v nositelných zařízeních. Tyto senzory tvoří základ pro měření a zpracování pohybových dat, která budou dále analyzována v praktické části projektu.
+
+
 
 
 
