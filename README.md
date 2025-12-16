@@ -62,6 +62,7 @@ Akcelerometr je senzor, který slouží k měření zrychlení pohybu zařízen�
 
 Pomocí akcelerometru lze zaznamenat například změny rychlosti, kroky, nárazy nebo intenzitu pohybu. Tento senzor je klíčový pro vyhodnocování pohybové aktivity sportovce.
 
+![Akceleroemtr](images/)
 ## Gyroskop
 
 Gyroskop je senzor určený k měření úhlové rychlosti a orientace zařízení v prostoru. Umožňuje určit, jakým směrem a jak rychle se zařízení otáčí.
