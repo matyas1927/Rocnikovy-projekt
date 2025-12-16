@@ -46,6 +46,10 @@ V této kapitole jsou popsána zařízení, která jsou použita v rámci ročn�
 - Apple Watch využívám především ke sledování kvality spánku, počtu kroků a základních zdravotních údajů, což mi pomáhá lépe hlídat denní režim a celkový zdravotní stav.
 ![Applewatch](images/applewatch.jpeg)
 
+## Shrnutí kapitoly
+
+Krátké shrnutí, že se jedná o dvě rozdílná zařízení určená pro odlišné skupiny uživatelů, což je důležité pro další porovnání.
+
 
 
 
