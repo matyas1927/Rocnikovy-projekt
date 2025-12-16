@@ -26,10 +26,12 @@ V této kapitole je popsán aktuální stav ročníkového projektu.
 
 Projekt se v současné době nachází ve fázi rozpracování. Bylo stanoveno téma projektu, jeho cíl a základní struktura dokumentace. Dále byla vytvořena myšlenková mapa, která slouží jako přehled plánovaných částí projektu.
 
-V rámci praktické části projektu již bylo zahájeno základní sbírání dat z nositelných zařízení. Tato činnost zatím neprobíhá systematicky a slouží především k seznámení se s funkcemi zařízení, dostupnými daty a možnostmi jejich exportu a dalšího zpracování. Hlavní důraz je v této fázi kladen především na teoretickou přípravu projektu.
+V rámci praktické části projektu již bylo zahájeno základní sbírání dat z nositelných zařízení. Tato činnost zatím slouží především k seznámení se s funkcemi zařízení, dostupnými daty a možnostmi jejich exportu a dalšího zpracování. Hlavní důraz je v této fázi kladen především na teoretickou část projektu.
 
 Praktická část projektu bude dále rozvíjena v následujících etapách, kdy dojde k plánovanému a opakovanému měření za stejných podmínek a následnému vyhodnocení získaných dat.
 
+# Použitá zařízení
+V této kapitole jsou popsána zařízení, která jsou použita v rámci ročníkového projektu pro měření a sběr pohybových dat.
 
 
 
