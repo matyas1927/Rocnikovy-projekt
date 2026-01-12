@@ -117,4 +117,6 @@ Níže jsou uvedeny zdroje informací, které byly použity při zpracování ro
 - 31 Years of Apple.com Website Design History - 39 Images - Version Museum. Online. Version Museum. Dostupné z: https://www.versionmuseum.com/history-of/apple-website. [cit. 2025-12-13].
 - Nadvláda Apple Watch končí! iOS 26.3 přinese zásadní změnu, díky které s nimi konkurence srovná krok. Letem Světem Applem. 2025, s. 1.
 - Tenčí, odolnější a s delší výdrží. Test hodinek Apple Watch Series 11. IDNES.cz. 2025, roč. 2013, č. 2, s. 1.
+- OPENAI. ChatGPT [online]. 2025 [cit. 2026-01-12]. Dostupné z: https://chat.openai.com
+- GOOGLE. Gemini [online]. 2025 [cit. 2026-01-12]. Dostupné z: https://gemini.google.com
 
