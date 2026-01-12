@@ -109,6 +109,11 @@ Porovnávány budou zejména:
 - nejvyšší dosažená rychlost
 - trasa
 
+## Vyhodnocení
+
+Naměřené hodnoty budu porovnávat mezi oběma zařízeními a vyhodnocovat pomocí tabulek a grafů. Výsledky budou slovně okomentovány.
+
+
   
 
 
