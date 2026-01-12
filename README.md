@@ -80,6 +80,19 @@ STATSports Tracker je naopak zaměřen především na přesné měření pohybu
 
 V této kapitole byly popsány základní senzory a hardwarové prvky používané v nositelných zařízeních. Tyto senzory tvoří základ pro měření a zpracování pohybových dat, která budou dále analyzována v praktické části projektu.
 
+# Metodika porovnání
+
+Tato kapitola bude popisovat, jakým způsobem budu porovnávat zařízení Statsport Tracker a chytré hodinky AppleWatch z hlediska přesnosti měření pohybových dat.
+
+## Podmínky měření
+
+Všechna měření budu provádět za stejných podmínek:
+
+- stejná osoba
+- stejná trasa
+- stejný časový úsek
+- současné použití obou zařízení
+
 
 
 
