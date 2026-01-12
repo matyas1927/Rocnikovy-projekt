@@ -93,6 +93,23 @@ Všechna měření budu provádět za stejných podmínek:
 - stejný časový úsek
 - současné použití obou zařízení
 
+## Způsob směru dat
+
+Obě zařízení budu mít na sobě a boudou zaznamenávat data během sportovní aktivity (např. běh, fotbal, futsal).
+Po ukončení měření budou data stáhnuta a poté exportována z aplikace APEX která slouží k zapisování aktivit z čipu Statsport a aplikace Health která slouží k zaznamenávání dat z hodinek AppleWatch.
+Exportovaná data dám do dostupného a přehledného formátu (např. tabulka nebo graf).
+
+## Porovnávané veličiny
+
+Porovnávány budou zejména:
+
+- naměřená vzdálenost
+- čas aktivity
+- průměrná rychlost
+- nejvyšší dosažená rychlost
+- trasa
+
+  
 
 
 
