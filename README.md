@@ -68,7 +68,7 @@ V kombinaci s akcelerometrem poskytuje gyroskop přesnější informace o pohybu
 
 ## GPS (Globální polohový systém)
 
-GPS senzor slouží k určení polohy zařízení pomocí signálů z družic. Na základě získaných dat je možné vypočítat vzdálenost, rychlost pohybu a trasu, po které se uživatel pohyboval.
+- GPS senzor slouží k určení polohy zařízení pomocí signálů z družic. Na základě získaných dat je možné vypočítat vzdálenost, rychlost pohybu a trasu, po které se uživatel pohyboval.
 GPS je důležitým senzorem zejména u venkovních sportovních aktivit, jako je běh nebo fotbal, kde je nutné sledovat pohyb v prostoru.
 - U Apple Watch funguje GPS ještě trochu jinak, GPS umožňuje posílat a přijímat textové zprávy, přijímat telefonní hovory a dostávat oznámení, když jsou připojené k iPhonu přes Bluetooth a Wi-Fi. 
 Vestavěná GPS funguje nezávisle na iPhonu a při tréninku slouží k měření vzdálenosti, tempa a mapování trasy.
@@ -156,4 +156,6 @@ Níže jsou uvedeny zdroje informací, které byly použity při zpracování ro
 - Tenčí, odolnější a s delší výdrží. Test hodinek Apple Watch Series 11. IDNES.cz. 2025, roč. 2013, č. 2, s. 1.
 - OPENAI. ChatGPT [online]. 2025 [cit. 2026-01-12]. Dostupné z: https://chat.openai.com
 - GOOGLE. Gemini [online]. 2025 [cit. 2026-01-12]. Dostupné z: https://gemini.google.com
+- Jaký je rozdíl mezi GPS a GPS + Cellular? Online. Istyle. 2018, roč. 2022, s. 1. Dostupné z: https://istyle.cz/pages/watch-pripojeni-tooltip. [cit. 2026-01-19].
+- 
 
