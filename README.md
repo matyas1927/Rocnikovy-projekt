@@ -70,6 +70,8 @@ V kombinaci s akcelerometrem poskytuje gyroskop přesnější informace o pohybu
 
 GPS senzor slouží k určení polohy zařízení pomocí signálů z družic. Na základě získaných dat je možné vypočítat vzdálenost, rychlost pohybu a trasu, po které se uživatel pohyboval.
 GPS je důležitým senzorem zejména u venkovních sportovních aktivit, jako je běh nebo fotbal, kde je nutné sledovat pohyb v prostoru.
+- U Apple Watch funguje GPS ještě trochu jinak, GPS umožňuje posílat a přijímat textové zprávy, přijímat telefonní hovory a dostávat oznámení, když jsou připojené k iPhonu přes Bluetooth a Wi-Fi. 
+Vestavěná GPS funguje nezávisle na iPhonu a při tréninku slouží k měření vzdálenosti, tempa a mapování trasy.
 
 ## Další senzory
 
