@@ -116,8 +116,17 @@ Porovnávány budou zejména:
 Naměřené hodnoty budu porovnávat mezi oběma zařízeními a vyhodnocovat pomocí tabulek a grafů. Výsledky budou slovně okomentovány.
 
 
-  
+# Základní porovnání zařízení
 
+| Parametr | STATSports Tracker | Apple Watch |
+|---|---|---|
+| Typ zařízení | Profesionální sportovní tracker | Chytré hodinky |
+| Primární využití | Profesionální sport | Běžné použití |
+| GPS | Ano | Ano |
+| Akcelerometr | Ano | Ano |
+| Gyroskop | Ano | Ano |
+| Měření tepu | Ne | Ano |
+| Umístění zařízení | Záda | Zápěstí |
 
 
 
