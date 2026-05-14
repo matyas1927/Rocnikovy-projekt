@@ -138,7 +138,7 @@ Měření probíhala během fotbalových tréninků a zápasů. Obě zařízení
 ### Aktivita 1 – Fotbalový trénink
 
 #### STATSports Tracker
-![Statsports trenink](images/trenink_statsports.jpeg)
+![Statsports Tracker trénink](images/686DCCF3-0120-4C56-B2B8-F5BF0DD8BD54.jpeg)
 
 #### Apple Watch
 ![Applewatch trenink](images/trenink_applewatch.jpeg)
