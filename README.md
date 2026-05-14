@@ -162,7 +162,7 @@ Měření probíhala během fotbalových tréninků a zápasů. Obě zařízení
 |---|---|---|
 | Trénink – vzdálenost | 8.14 km | 8.14 km |
 | Zápas – vzdálenost | 11.87 km | 11.87 km |
-| Další aktivita – vzdálenost | 9.26 km | 9.55 km |
+| Zápas – vzdálenost | 6.37 km | 6.12 km |
 
 ## Zhodnocení prvních výsledků
 
