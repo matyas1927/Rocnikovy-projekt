@@ -200,7 +200,7 @@ Do budoucna by bylo možné projekt dále rozšířit například o větší mno
 
 # Zdroje a citace
 Níže jsou uvedeny zdroje informací, které byly použity při zpracování ročníkového projektu.
-
+Při zpracování projektu byl částečně využit nástroj ChatGPT (OpenAI) jako podpůrný nástroj pro konzultaci struktury projektu, formulaci některých textových částí a návrh technického zpracování. Veškerý obsah byl následně upraven, doplněn a zkontrolován autorem projektu.
 --
 
 - STATSports. Online. STATSports | Performance Powered By Data | Athlete Monitoring. 2008. Dostupné z: https://statsports.com/. [cit. 2025-12-13].
@@ -212,5 +212,6 @@ Níže jsou uvedeny zdroje informací, které byly použity při zpracování ro
 - OPENAI. ChatGPT [online]. 2025 [cit. 2026-01-12]. Dostupné z: https://chat.openai.com
 - GOOGLE. Gemini [online]. 2025 [cit. 2026-01-12]. Dostupné z: https://gemini.google.com
 - Jaký je rozdíl mezi GPS a GPS + Cellular? Online. Istyle. 2018, roč. 2022, s. 1. Dostupné z: https://istyle.cz/pages/watch-pripojeni-tooltip. [cit. 2026-01-19].
+- Proč používat Apple Watch při sportu – efektivnější trénink a motivace. Imore. 2024, roč. 2017, č. 2, s. 1.
 - 
 
