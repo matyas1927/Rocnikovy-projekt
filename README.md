@@ -164,24 +164,23 @@ Měření probíhala během fotbalových tréninků a zápasů. Obě zařízení
 | Zápas – vzdálenost | 11.87 km | 11.87 km |
 | Zápas – vzdálenost | 6.37 km | 6.12 km |
 
-## Zhodnocení výsledků
+# Analýza a zhodnocení výsledků
 
-Při prvních testovacích měřeních byly zaznamenány pouze malé rozdíly mezi oběma zařízeními. Nejmenší rozdíly byly při delších a plynulejších aktivitách.
-U některých aktivit se však začaly objevovat menší odchylky ve vzdálenosti a dalších hodnotách, což může být způsobeno rozdílným způsobem měření, umístěním zařízení na těle nebo přesností GPS signálu.
+Na základě prvních praktických měření lze pozorovat, že zařízení STATSports Tracker a Apple Watch poskytují ve většině případů velmi podobné výsledky, hlavně při měření celkové vzdálenosti a délky aktivity. Nejmenší rozdíly byly zaznamenány při delších a plynulejších aktivitách, například během běhu nebo klasického tréninku.
 
+Při dynamičtějších aktivitách, jako je fotbal nebo futsal, se však začaly objevovat menší odchylky v naměřených hodnotách. Tyto rozdíly mohou být způsobeny několika faktory:
 
+- rozdílným umístěním zařízení na těle,
+- odlišnou přesností GPS,
+- rozdílnou frekvencí zaznamenávání dat,
+- odlišnými algoritmy pro zpracování pohybových dat,
+- pohybem ruky při používání Apple Watch na zápěstí.
 
+Osobně jsem očekával, že STATSports Tracker bude přesnější, protože je určen hlavně pro profesionální sport a používají ho i profesionální fotbalové týmy. V některých aktivitách to bylo opravdu znát, hlavně při rychlých změnách směru nebo intenzivnějším pohybu během zápasu.
 
+Na druhou stranu mě ale překvapilo, jak dobře si vedly Apple Watch. U některých aktivit byly rozdíly opravdu minimální a pro běžného uživatele by byly výsledky více než dostačující. Myslím si, že pro běžné sportování nebo rekreační běh jsou Apple Watch velmi kvalitní zařízení.
 
-
-
-
-
-
-
-
-
-
+Velkou výhodou STATSports Trackeru je hlavně detailnější zaměření na sportovní výkon. Data působí profesionálněji a člověk z nich může zjistit více informací o svém pohybu a zatížení během aktivity. Apple Watch jsou naopak univerzálnější a kromě sportu nabízí i mnoho dalších funkcí pro běžné používání.
 
 
 # Osobní přínos projektu
