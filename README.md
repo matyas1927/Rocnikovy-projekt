@@ -128,8 +128,46 @@ Naměřené hodnoty budu porovnávat mezi oběma zařízeními a vyhodnocovat po
 | Měření tepu | Ne | Ano |
 | Umístění zařízení | Záda | Zápěstí |
 
+# Praktické měření a první výsledky
 
+V rámci praktické části projektu byla provedena první testovací měření pomocí zařízení STATSports Tracker a Apple Watch.
+Měření probíhala během fotbalových tréninků a zápasů. Obě zařízení byla používána současně, aby bylo možné následně porovnat zaznamenaná data.
 
+## Ukázky naměřených dat
+
+### Aktivita 1 – Fotbalový trénink
+
+#### STATSports Tracker
+![Statsports trenink](images/trenink_statsports.jpeg)
+
+#### Apple Watch
+![Applewatch trenink](images/trenink_applewatch.jpeg)
+
+---
+
+### Aktivita 2 – Fotbalový zápas
+
+#### STATSports Tracker
+![Statsports zapas](images/zapas_statsports.jpeg)
+
+#### Apple Watch
+![Applewatch zapas](images/zapas_applewatch.jpeg)
+
+---
+
+## První porovnání výsledků
+
+| Aktivita | STATSports | Apple Watch |
+|---|---|---|
+| Trénink – vzdálenost | 8.14 km | 8.14 km |
+| Zápas – vzdálenost | 11.87 km | 11.87 km |
+| Další aktivita – vzdálenost | 9.26 km | 9.55 km |
+
+## Zhodnocení prvních výsledků
+
+Při prvních testovacích měřeních byly zaznamenány pouze malé rozdíly mezi oběma zařízeními. Nejmenší rozdíly byly při delších a plynulejších aktivitách.
+U některých aktivit se však začaly objevovat menší odchylky ve vzdálenosti a dalších hodnotách, což může být způsobeno rozdílným způsobem měření, umístěním zařízení na těle nebo přesností GPS signálu.
+Další měření budou pokračovat s cílem získat větší množství dat pro přesnější vyhodnocení výsledků.
 
 
 
