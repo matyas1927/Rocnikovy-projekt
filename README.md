@@ -95,7 +95,7 @@ Všechna měření budu provádět za stejných podmínek:
 - stejný časový úsek
 - současné použití obou zařízení
 
-## Způsob směru dat
+## Způsob sběru dat
 Obě zařízení budu mít na sobě a budou zaznamenávat data během sportovní aktivity (např. běh, fotbal, futsal).
 Budu se snažit data sbírat z co nejvíce pohybových aktivit, aby výsledek byl přesnější a více pestrý.
 Po ukončení měření budou data stáhnuta a poté exportována z aplikace APEX která slouží k zapisování aktivit z čipu Statsport a aplikace Health která slouží k zaznamenávání dat z hodinek AppleWatch. Do projektu přiložím printscreen menu obou aplikací a pokusím se vysvětlit jak každá funguje a kde se co nachází.
