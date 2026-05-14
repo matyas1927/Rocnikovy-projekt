@@ -153,7 +153,10 @@ Měření probíhala během fotbalových tréninků a zápasů. Obě zařízení
 
 #### STATSports Tracker a Apple Watch
 ![Statsports Tracker](images/07D4C44C-A0CE-4EED-A062-633B7B472071.jpeg)
-![Apple Watch](images/07D4C44C-A0CE-4EED-A062-633B7B472071.jpeg)
+![Apple Watch](images/2A9D76F2-E6EB-4EA6-AA28-DDAE58EFC168.jpeg)
+
+---
+
 ## První porovnání výsledků
 
 | Aktivita | STATSports | Apple Watch |
