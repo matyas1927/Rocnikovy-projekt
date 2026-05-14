@@ -184,11 +184,20 @@ U některých aktivit se však začaly objevovat menší odchylky ve vzdálenost
 
 
 
+# Osobní přínos projektu
 
+Na tomto projektu mě nejvíce bavilo propojení sportu a technologií. Díky tomu, že aktivně hraji fotbal a zároveň se zajímám o IT a moderní technologie, jsem si mohl prakticky vyzkoušet, jak fungují nositelné senzory a zpracování dat v reálném sportovním prostředí.
+Během projektu jsem lépe pochopil princip fungování GPS, akcelerometru, gyroskopu a způsob, jakým zařízení sbírají a vyhodnocují pohybová data. Zároveň jsem si vyzkoušel práci s analýzou dat, jejich porovnáváním a následným vyhodnocováním výsledků.
+Velkým přínosem pro mě bylo také to, že jsem mohl pracovat s profesionálním sportovním trackerem STATSports, který se používá i ve vyšších úrovních fotbalu. Některé získané výsledky a statistiky jsem konzultoval také s trenérem, kterého zajímalo porovnání profesionálního trackeru a běžně dostupných chytrých hodinek. Díky tomu projekt nepůsobil jen jako školní práce, ale měl i praktické využití ve sportu.
+Projekt mi ukázal, jak důležitou roli dnes hrají mikropočítačové systémy a senzory nejen v IT, ale také v profesionálním sportu a analýze výkonu sportovců.
 
+# Závěr
 
-
-
+Cílem projektu bylo porovnat dvě nositelná zařízení používaná pro sledování pohybové aktivity – STATSports Tracker a Apple Watch – z hlediska přesnosti měření a způsobu zpracování dat.
+V průběhu práce byly popsány použité senzory, hardware a princip fungování jednotlivých zařízení. Součástí projektu byla také praktická část, během které proběhlo několik měření při sportovních aktivitách, především při fotbalových trénincích a zápasech.
+Na základě získaných výsledků lze říct, že obě zařízení poskytují poměrně přesná data, přesto se mezi nimi objevují určité rozdíly. Ty mohou být způsobeny například odlišným umístěním zařízení na těle, rozdílným způsobem zpracování dat nebo přesností GPS signálu.
+Projekt mi pomohl lépe pochopit fungování mikropočítačových systémů, senzorů a moderních technologií využívaných ve sportu. Zároveň jsem si vyzkoušel práci s praktickým měřením, dokumentací projektu a zpracováním získaných dat.
+Do budoucna by bylo možné projekt dále rozšířit například o větší množství měření, detailnější analýzu dat nebo porovnání s dalšími zařízeními používanými ve sportovní diagnostice.
 
 # Zdroje a citace
 Níže jsou uvedeny zdroje informací, které byly použity při zpracování ročníkového projektu.
